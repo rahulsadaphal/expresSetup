@@ -32,7 +32,7 @@
     "request": "^2.88.0",
     "sqlstring": "^2.3.1",
     "uuid": "^3.3.2",
-    "validator": "^10.10.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "standard": "^13.1.0"
